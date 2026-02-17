@@ -1,0 +1,22 @@
+# Data & Logs
+data/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
